@@ -1,0 +1,10 @@
+Percent Accuracy Report
+
+training data: traindata.txt & trainlabels.txt
+testing data: traindata.txt
+accuracy: 95.59748
+
+training data: traindata.txt & trainlabels.txt
+testing data: testdata.txt
+testing data: traindata.txt
+accuracy: 84.69388
