@@ -1,7 +1,7 @@
 /*
- * Dana Huget, V00860786
- * September 30, 2018
- * SENG474-A01 Assignment 1
+ * Dana Huget, V00860786 & Ricardo Rodriguez, V00797811
+ * October 2, 2018
+ * SENG474-A01 Assignment 1 Question 4
  *
  * Implementation of a Naive Bayes Bernoulli model text classification
  *
